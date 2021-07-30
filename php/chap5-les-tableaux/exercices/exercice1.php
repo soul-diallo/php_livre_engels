@@ -5,10 +5,10 @@
  */
 
 $tableau = [
-    ["Diallo"=>["Souleymane","Conakry",23]],
-    ["Uzumaki"=>["Naruto","Konoha",25]],
-    ["Nara"=>["Shikamaru","Konoha",26]],
-    ["Kinzoko"=>["Batto","Arc City",29]],
-    ["Tradarzi"=>["Gallopacho","Napoli",35]]
+    "Diallo"=>["Souleymane","Conakry",23],
+    "Uzumaki"=>["Naruto","Konoha",25],
+    "Nara"=>["Shikamaru","Konoha",26],
+    "Kinzoko"=>["Batto","Arc City",29],
+    "Tradarzi"=>["Gallopacho","Napoli",35]
 ];
 
