@@ -17,8 +17,8 @@ echo $element[0];
 while ($element = each($tableau)) {
     //echo "Son nom est <b>$element[0]</b><br>";
 
-//    while ($val=each($element[1])) {
-//        echo " son prenom est <b>{$val["value"]}</b> Il habite a <b>{$val["value"]}</b> et il a <b>{$val["value"]}</b> ans.<br>";
-//    }
+    while ($val=each($element[1])) {
+        echo " son prenom est <b>{$val["value"]}</b> Il habite a <b>{$val["value"]}</b> et il a <b>{$val["value"]}</b> ans.<br>";
+    }
 
 }
